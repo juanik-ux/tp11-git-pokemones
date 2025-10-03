@@ -38,6 +38,15 @@ const pokemones = [
     hp_total: 60,
     evolucion: false,
   },
+  {
+    nombre: "Wallrel",
+    nivel: 25,
+    tipo: ["veneno, volador"],
+    foto: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    hp: 60,
+    hp_total: 60,
+    evolucion: false,
+  },
 ];
 
 // Funciones auxiliares
