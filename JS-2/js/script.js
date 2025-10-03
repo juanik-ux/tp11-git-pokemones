@@ -29,6 +29,15 @@ const pokemones = [
     hp_total: 55,
     evolucion: false,
   },
+  {
+    nombre: "Aron",
+    nivel: 25,
+    tipo: ["Acero, roca"],
+    foto: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    hp: 60,
+    hp_total: 60,
+    evolucion: false,
+  },
 ];
 
 // Funciones auxiliares
